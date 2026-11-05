@@ -1,0 +1,5 @@
+Rpackages/
+Loci.csv
+*.rimage
+.Rhistory
+.RData
